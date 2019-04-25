@@ -1,0 +1,20 @@
+﻿<!--José Jiménez Romero-->
+
+
+<!--Los atributos nombre y licencia no los permiten, yo he añadido una etiqueta nombre y otra licencia dentro de la etiqueta programa-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+    <programa>
+        <nombre>Firefox</nombre>
+        <licencia>GPL</licencia>
+    </programa>
+    <programa>
+          <nombre>OpenOffice.org</nombre>
+          <licencia>LGPL</licencia>
+      </programa>
+    <programa>
+        <nombre>Inkscape</nombre>
+        <licencia>GPL</licencia>
+    </programa>
+</programas>

@@ -1,0 +1,13 @@
+﻿<!--José Jiménez Romero-->
+
+<!--Las etiquetas bicicleta y patinete no pueden llevar como atributo velocidad, por ello he añadido velocidad como otra etiqueta hija de cada una de ellas. Además la etiqueta 100km/h no existe-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<mediosDeTransporte>
+  <bicicleta>
+        <velocidad>100km/h</velocidad>
+  </bicicleta>
+  <patinete>
+        <velocidad>50 km/h</velocidad>
+  </patinete>
+</mediosDeTransporte>

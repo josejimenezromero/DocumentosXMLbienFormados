@@ -1,0 +1,13 @@
+﻿<!--José Jiménez Romero-->
+
+<!--La etiqueta titulo se abre con mayúscula y se cierra con minúscula, no existe la etiqueta http:// y la he sustituido por la etiqueta <a>-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<texto>
+  <titulo>XML explicado a los niños</titulo>
+  <párrafo>El <abreviatura>XML</abreviatura>define cómo crear 
+  lenguajes de marcas.</párrafo>
+  <párrafo>Las marcas se añaden a un documento de texto 
+  para añadir información.</párrafo>
+  <a href="www.example.org"></a>
+</texto>
